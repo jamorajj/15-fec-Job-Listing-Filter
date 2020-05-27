@@ -2,7 +2,7 @@
 
 Frontend Challenge - Job Listing Filter
 
-Solution for Job Listing Filter challenge
+Solution for Job Listing Filter challenge.
 
 # Frontend Mentor - Job Listing Filter
 
